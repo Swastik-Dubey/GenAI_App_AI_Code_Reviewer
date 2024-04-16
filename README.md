@@ -1,6 +1,7 @@
 # GenAI App - AI Code Reviewer
 
-[![Watch the video](Screenshot 2024-04-16 080220.png)](https://drive.google.com/file/d/1wSTvgl5APoICxDhBwRDK-uUS9FjY4ahu/view?usp=sharing)
+[![Watch the video](Screenshot%202024-04-16%20080220.png)](https://drive.google.com/file/d/1wSTvgl5APoICxDhBwRDK-uUS9FjY4ahu/view?usp=sharing)
+
 
 ## Overview
 
@@ -17,11 +18,12 @@ The GenAI App is an AI-powered code reviewer built using Python and OpenAI's GPT
 
 Click the image below to watch the demonstration video:
 
-[![GenAI App Demo](Screenshot 2024-04-16 080220.png)](https://drive.google.com/file/d/1wSTvgl5APoICxDhBwRDK-uUS9FjY4ahu/view?usp=sharing)
+[![Watch the video](Screenshot%202024-04-16%20080220.png)](https://drive.google.com/file/d/1wSTvgl5APoICxDhBwRDK-uUS9FjY4ahu/view?usp=sharing)
+
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/GenAI-App.git
+   git clone https://github.com/Swastik-Dubey/GenAI_App_AI_Code_Reviewer.git
